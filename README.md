@@ -25,4 +25,3 @@ To run the project, ensure that you have Java 17 installed on your system. Then,
 
 ```bash
 mvn spring-boot:run
-
